@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own. 
+  "If you have a cat and it wanders nearby during the meeting, please show them off! I want to see your cats! Other pets are also acceptable. Thanks for your consideration." ~Steven Hyland
   <!-- END -->
   
   </div>
